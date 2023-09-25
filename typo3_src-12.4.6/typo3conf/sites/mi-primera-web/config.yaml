@@ -1,0 +1,14 @@
+base: 'http://localhost:1234/'
+languages:
+  -
+    title: Español
+    enabled: true
+    locale: es_ES
+    hreflang: es-ES
+    base: /
+    websiteTitle: ''
+    navigationTitle: Español
+    flag: es
+    languageId: 0
+rootPageId: 1
+websiteTitle: PruebaTypo3
